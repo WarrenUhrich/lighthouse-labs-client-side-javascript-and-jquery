@@ -1,1 +1,3 @@
-# lighthouse-labs-client-side-javascript-and-jquery
+# Lighthouse Labs | Client Side JavaScript & jQuery
+
+
