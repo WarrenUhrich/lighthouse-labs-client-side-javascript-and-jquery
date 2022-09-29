@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Form Example</title>
+
+    <!-- Vendor Script(s): -->
+    <script src="./vendor/jquery/jquery.min.js" defer></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script> -->
+
+    <!-- Our Script(s): -->
+    <script src="./js/05-jquery.js" defer></script>
+</head>
+<body>
+    <h1>jQuery Form Example</h1>
+
+    <form>
+        <h2>To-Do Form</h2>
+        <label>
+            Category:
+            <input id="category">
+        </label>
+        <label>
+            New Task:
+            <input id="new-task">
+        </label>
+        <input type="submit" value="Add Task">
+    </form>
+
+    <ul id="to-do-list">
+        <!-- Use JS to add new tasks to this list. -->
+    </ul>
+</body>
+</html>
