@@ -1,6 +1,6 @@
 # Lighthouse Labs | Client Side JavaScript & jQuery
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-client-side-javascript-and-jquery/tree/2022.12.08-web-flex-day-17oct2022) | [Vimeo Video Recording (Coming Soon)](#coming-soon)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-client-side-javascript-and-jquery/tree/2022.12.08-web-flex-day-17oct2022) | [Vimeo Video Recording](https://vimeo.com/779393436/79df2f4ed0)
 
 * [X] JavaScript in the Browser
 * [X] Browser Objects
