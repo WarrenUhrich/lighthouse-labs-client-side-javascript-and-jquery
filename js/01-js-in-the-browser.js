@@ -14,3 +14,11 @@ console.log('p:', p);
 
 const htmlString = html.outerHTML;
 console.log('htmlString:', htmlString);
+
+// const myP = document.querySelector('p#my-id.my-class-1.my-class-2');
+const myP = document.querySelector('p');
+console.log('myP:', myP);
+
+myP.textContent = navigator.userAgent;
+
+document.title = navigator.language;
